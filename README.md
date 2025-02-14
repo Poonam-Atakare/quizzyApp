@@ -1,0 +1,1 @@
+Welcome to quizzyApp, a Java-based app for fun quizzes across various topics. Simply clone the repo, compile and run, and start enjoying timed quizzes with score tracking. Built with Java and Swing, it’s easy to set up and play.For detailed documentation, check out the links provided. Enjoy and happy quizzing!
